@@ -1,0 +1,10 @@
+*   ea5edd7 (HEAD -> ramaC) Merge branch 'ramaDePrueba' into ramaC
+|\  
+| * d1d97f2 Cambio para el merge
+* | 058eb8d Cambiomenor
+* | a6ceab1 (origin/ramaC) Segunda prueba de ramas
+|/  
+* 185eb6f Probando elflujo de trabajo con ramas
+* a1c36a9 (origin/main, main) creando el primer entorno con vite
+* b899344 creacion de readme
+* b9cd654 (origin/master) first commitdddd
